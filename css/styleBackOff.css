@@ -1,0 +1,46 @@
+img.rounded{
+	height:400px;
+	width:100%;
+}
+.chapterManager, .commentManager{
+	text-align:center;
+	font-size:25px;
+	color:blue;
+	text-decoration:underline;
+	text-shadow:44px;
+	text-indent: 20px;
+	letter-spacing: 3px;
+}
+
+.reportedCommentManager{
+	text-align:left;
+	font-size:18px;
+	color:darkred;
+	text-decoration:underline;
+}
+.notReadCommentManager{
+	text-align:left;
+	font-size:18px;
+	color:darkgreen;
+	text-decoration:underline;
+}
+body{
+	background-color:beige;
+	overflow-x:hidden;
+}
+.dec{
+	
+	color:red;
+}
+.glyphicon.glyphicon-pencil{
+	color:green;
+	font-size: 23px;
+}
+.glyphicon.glyphicon-trash{
+	color:red;
+	font-size: 23px;
+}
+footer{
+	text-align: center;
+	background-color: #58ACFA; 
+}

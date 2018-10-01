@@ -1,0 +1,110 @@
+h1,h3
+{
+    text-align:center;
+    color: blue;
+}
+h3
+{
+    background-color:#58ACFA;
+    color:red;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+th button:hover{
+background-color: lightgreen;
+cursor:pointer;
+}
+table{
+width:100%;
+margin-top: -50px;
+}
+.news p
+{
+    background-color:white;
+    margin-top:0px;
+}
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+body{
+    background-color: beige;
+    overflow-x: hidden;
+}
+div.news
+{
+    width:70%;
+    margin:auto;
+}
+.news h3{
+    color: white;
+}
+
+a
+{
+    text-decoration: none;
+    color: blue;
+}
+img, .img-responsive{
+    width: 100%;
+  height: 300px;
+}
+footer{
+  text-align: center;
+  background-color: #58ACFA; 
+}
+footer a{
+  color: #fff; 
+
+}
+.btn.btn-primary{
+background-color: #58ACFA;
+}
+.btn.btn-primary:hover{
+background-color: white;
+color: blue;
+}
+button:hover{
+background-color: red;
+cursor:pointer;
+}
+.title{
+    color: blue;
+    padding-left: 20px;
+}
+.cmt{
+    padding-left: 100px;
+    word-wrap:break-word;
+}
+p.c{
+  word-wrap: break-word;
+}
+.back, h2{
+    padding-left: 50px;
+    text-decoration: underline;
+    color: blue;
+}
+.btn.btn-outline-danger{
+  margin-left: 10px;    
+  display: inline-block;
+  padding-left: 20px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:red;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;               
+}
+.updateChapter{
+    text-align: center;
+    background-color: lightgreen;
+}
+i{
+padding-left: 10px;
+}
+
